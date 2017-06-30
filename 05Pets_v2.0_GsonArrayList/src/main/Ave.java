@@ -4,7 +4,7 @@ public class Ave extends Mascota {
 		
 	private float calidadPlumas; 
 	
-	// hola
+	// hola 3
 
 	public Ave(String nombre, float peso, float altura, float largo) {
 			super(nombre, peso, altura, largo);
