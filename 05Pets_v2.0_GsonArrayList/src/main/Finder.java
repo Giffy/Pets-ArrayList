@@ -11,13 +11,13 @@ public class Finder<T> {
 	public ArrayList<T> find(ArrayList<T> list, Object patron, ContainChecker<T> checker){
 		
 		// TODO definir algoritmo de busqueda
+		ArrayList<T> newList = new ArrayList<T>();
+		int length= list.size(); 
 		
-		int length= list.size();
-		
-	/*	for (int i=0; i<length; i++){
-			list.get(0).
+		for (int i=0; i<length; i++){
+//			if (containChecker(T list.get(i), Object patron)) 
 		}
-		*/
+		
 		
 		
 		
