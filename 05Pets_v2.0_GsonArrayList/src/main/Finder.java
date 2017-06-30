@@ -2,8 +2,8 @@ package main;
 
 import java.util.ArrayList;
 
-public class Finder<T> {
-	
+public class Finder<T> { 
+	//dd
 	public interface ContainChecker<T>{
 		public boolean containChecker(T object, Object patron);
 	}
