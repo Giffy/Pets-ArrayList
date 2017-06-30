@@ -3,6 +3,8 @@ package main;
 public class Ave extends Mascota {
 		
 	private float calidadPlumas; 
+	
+	// hola
 
 	public Ave(String nombre, float peso, float altura, float largo) {
 			super(nombre, peso, altura, largo);
